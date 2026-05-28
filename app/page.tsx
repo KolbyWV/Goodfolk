@@ -23,7 +23,7 @@ export default function Home() {
               href="https://tools.goodfolkdigital.com"
               className="rounded-xl bg-amber-300 px-6 py-3 text-center font-semibold text-slate-950 transition hover:bg-amber-200"
             >
-              Open Goodfolk Tools
+              Open Goodfolk Toolbox
             </a>
 
             <a
@@ -42,7 +42,7 @@ export default function Home() {
             </p>
 
             <h2 className="text-2xl font-semibold">
-              Goodfolk Tools
+              Goodfolk Toolbox
             </h2>
 
             <p className="mt-3 text-zinc-400">
@@ -54,7 +54,7 @@ export default function Home() {
               href="https://tools.goodfolkdigital.com"
               className="mt-5 inline-block text-sm font-semibold text-amber-300 hover:text-amber-200"
             >
-              Visit tools →
+              Visit toolbox →
             </Link>
           </div>
 
